@@ -1,4 +1,4 @@
-## Coding Assignment
+## Coding AssignmentS
 
 While the purpose is to learn Jenkins, this will be a coding assignment. It is made just to give you some tangible code to work with:
 Remember, this is not a programming exercise, but a Jenkins one; code is only there so you have something to build :)
